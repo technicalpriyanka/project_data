@@ -1,0 +1,11 @@
+Number guessing game in Python 3 
+
+Suppose the user defines the range from 1 to 100, and the system randomly selects 42 as the target number. The guessing process might look like this:
+
+Guess 1: 50 → Too high
+Guess 2: 25 → Too low
+Guess 3: 37 → Too low
+Guess 4: 43 → Too high
+Guess 5: 40 → Too low
+Guess 6: 41 → Too low
+Guess 7: 42 → Correct!
